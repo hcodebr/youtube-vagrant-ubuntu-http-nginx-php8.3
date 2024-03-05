@@ -1,0 +1,34 @@
+# Arquivos e diretórios do Vagrant
+.vagrant/
+*.box
+
+# Arquivos de log
+vagrant.log
+
+# Arquivos temporários
+*~
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de editor/IDE específicos
+.idea/
+*.swp
+*.swo
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de ambiente Python, se aplicável
+venv/
+*.pyc
+__pycache__/
+*.pyo
+
+# Node modules, se aplicável
+node_modules/
+
+# Diretórios de build/compilação
+build/
+dist/
