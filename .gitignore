@@ -32,3 +32,5 @@ node_modules/
 # Diretórios de build/compilação
 build/
 dist/
+home/.lesshst
+home/.cache/motd.legal-displayed
